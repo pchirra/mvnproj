@@ -1,1 +1,1 @@
-# maven
+# Jenkins pipeline project.
